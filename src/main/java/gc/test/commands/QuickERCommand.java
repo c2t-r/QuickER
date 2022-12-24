@@ -55,6 +55,6 @@ public final class QuickERCommand implements CommandHandler {
                 entity.getWorld().broadcastPacket(new PacketAvatarLifeStateChangeNotify(entity.getAvatar()));
             }
         });
-        CommandHandler.sendMessage(sender, "元素エネルギーを回復しました。");
+        CommandHandler.sendMessage(sender, "Recharged energy.");
     }
 }
