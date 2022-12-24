@@ -1,5 +1,5 @@
 # QuickER
-Plugin for grasscutter ps
+Plugin for grasscutter ps  
 Recharge your character's energy
 
 # Usage
