@@ -12,3 +12,4 @@ Recharge your character's energy
 1. Clone this repository
 2. Open cmd prompt
 3. Run `mvn package`
+4. Now jar file should be in `./taget`
