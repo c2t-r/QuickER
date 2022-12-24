@@ -11,4 +11,4 @@ Recharge your character's energy
 # Build
 1. Clone this repository
 2. Open cmd prompt
-3. Type `mvn package`
+3. Run `mvn package`
