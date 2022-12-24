@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>xyz.grasscutters</groupId> <!-- Replace with your groupId -->
+    <groupId>const2.ctrplugin</groupId> <!-- Replace with your groupId -->
     <artifactId>QuickER</artifactId> <!-- Replace with your plugin name. -->
     <version>1.0.0-dev</version> <!-- The template's version corresponds to the latest API version. -->
 
