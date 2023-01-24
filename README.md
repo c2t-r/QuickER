@@ -18,4 +18,4 @@ Recharge your character's energy
 https://user-images.githubusercontent.com/80561604/209434494-ad6720f2-90cd-46ac-b030-ae7104e59c5b.mp4
 
 # Thanks
-- (NotThorny)[https://github.com/NotThorny]
+- [NotThorny](https://github.com/NotThorny)
