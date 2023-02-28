@@ -6,7 +6,7 @@
 
     <groupId>const2.ctrplugin</groupId> <!-- Replace with your groupId -->
     <artifactId>QuickER</artifactId> <!-- Replace with your plugin name. -->
-    <version>1.0.0-dev</version> <!-- The template's version corresponds to the latest API version. -->
+    <version>1.0.1</version> <!-- The template's version corresponds to the latest API version. -->
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
