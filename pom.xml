@@ -6,7 +6,7 @@
 
     <groupId>const2.ctrplugin</groupId> <!-- Replace with your groupId -->
     <artifactId>QuickER</artifactId> <!-- Replace with your plugin name. -->
-    <version>1.0.0-dev</version> <!-- The template's version corresponds to the latest API version. -->
+    <version>1.0.1</version> <!-- The template's version corresponds to the latest API version. -->
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -26,9 +26,13 @@
     
     <dependencies>
         <dependency>
-            <groupId>xyz.grasscutters</groupId> <!-- Versions below 1.0.3-dev are on 'tech.xigam' -->
+            <groupId>xyz.grasscutters</groupId>
             <artifactId>grasscutter</artifactId>
+<<<<<<< HEAD
             <version>1.5.0</version> <!-- Replace with the latest version of the API. -->
+=======
+            <version>1.5.0</version>
+>>>>>>> 2609e73094af5350cfe591951516773e1d5c5cd0
         </dependency>
     </dependencies>
 </project>
