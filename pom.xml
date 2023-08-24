@@ -28,11 +28,7 @@
         <dependency>
             <groupId>xyz.grasscutters</groupId>
             <artifactId>grasscutter</artifactId>
-<<<<<<< HEAD
-            <version>1.5.0</version> <!-- Replace with the latest version of the API. -->
-=======
-            <version>1.5.0</version>
->>>>>>> 2609e73094af5350cfe591951516773e1d5c5cd0
+            <version>1.7.0</version> <!-- Replace with the latest version of the API. -->
         </dependency>
     </dependencies>
 </project>
