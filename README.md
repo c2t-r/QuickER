@@ -1,4 +1,4 @@
-# QuickER
+# QuickER (Not working)
 Plugin for grasscutter ps  
 Recharge your character's energy
 
