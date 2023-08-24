@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>const2.ctrplugin</groupId> <!-- Replace with your groupId -->
+    <groupId>c2tr</groupId> <!-- Replace with your groupId -->
     <artifactId>QuickER</artifactId> <!-- Replace with your plugin name. -->
     <version>1.0.1</version> <!-- The template's version corresponds to the latest API version. -->
 
